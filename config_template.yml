@@ -1,0 +1,3 @@
+host: # THE IP ADDRESS OF OUR HOST
+api_port: # THE PORT OF THE API
+token: # TOKEN FOR THE TARXIV API
